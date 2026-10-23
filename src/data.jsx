@@ -75,14 +75,14 @@ export const BOARD = [
     initial: "ক",
     name: "সাকিব হাসান তামিম",
     role: "সভাপতি, কম্পিটেন্ট গাইড সম্পাদনা পরিষদ",
-    photo: "/public/members/sakib.png",
+    photo: "/members/sakib.png",
   },
-  { initial: "খ", name: "মোঃ আবির হোসেন", role: "সম্পাদক, কম্পিটেন্ট গাইড সম্পাদনা পরিষদ", photo: "/public/members/abir.png" },
-  { initial: "গ", name: "জাহিদ হাসান রাঙ্গা", role: "ব্যবস্থাপনা সম্পাদক, কম্পিটেন্ট গাইড সম্পাদনা পরিষদ", photo: "/public/members/ranga.png" },
-  { initial: "ঘ", name: "আকিল আহমেদ", role: "পরিচালক, কম্পিটেন্ট গাইড সম্পাদনা পরিষদ", photo: "/public/members/akil.jfif" },
-  { initial: "ঙ", name: "মোঃ আবু তালহা", role: "সহকারী পরিচালক, কম্পিটেন্ট গাইড সম্পাদনা পরিষদ", photo: "/public/members/talha.png" },
-  { initial: "চ", name: "মেছবাহুল ইসলাম", role: "সহকারী পরিচালক, কম্পিটেন্ট গাইড সম্পাদনা পরিষদ", photo: "/public/members/misbah.png" },
-  { initial: "ছ", name: "মোঃ আহসান হাবিব", role: "সম্পাদনা সদস্য, কম্পিটেন্ট গাইড সম্পাদনা পরিষদ", photo: "/public/members/ahsan.png" },
+  { initial: "খ", name: "মোঃ আবির হোসেন", role: "সম্পাদক, কম্পিটেন্ট গাইড সম্পাদনা পরিষদ", photo: "/members/abir.png" },
+  { initial: "গ", name: "জাহিদ হাসান রাঙ্গা", role: "ব্যবস্থাপনা সম্পাদক, কম্পিটেন্ট গাইড সম্পাদনা পরিষদ", photo: "/members/ranga.png" },
+  { initial: "ঘ", name: "আকিল আহমেদ", role: "পরিচালক, কম্পিটেন্ট গাইড সম্পাদনা পরিষদ", photo: "/members/akil.jfif" },
+  { initial: "ঙ", name: "মোঃ আবু তালহা", role: "সহকারী পরিচালক, কম্পিটেন্ট গাইড সম্পাদনা পরিষদ", photo: "/members/talha.png" },
+  { initial: "চ", name: "মেছবাহুল ইসলাম", role: "সহকারী পরিচালক, কম্পিটেন্ট গাইড সম্পাদনা পরিষদ", photo: "/members/misbah.png" },
+  { initial: "ছ", name: "মোঃ আহসান হাবিব", role: "সম্পাদনা সদস্য, কম্পিটেন্ট গাইড সম্পাদনা পরিষদ", photo: "/members/ahsan.png" },
 ];
 
 export const CONTACT = {
